@@ -13,6 +13,21 @@ h2 {
     text-decoration: underline;
     text-shadow: 2px 2px #014887;
 }
+
+nav {
+    background-color: grey;
+    padding: 5px;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav li {
+    display: inline;
+    margin-right: 10px;
+}
+
 .main-section {
     color: #7E0BBC;
     font-weight: bold;
